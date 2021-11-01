@@ -4,7 +4,7 @@
 Preparation before the meeting
 We use the python language for programming, PyTorch/scikit-learn packages, and google Colab environment. Participants only need to register on google drive and have primary experience in working with google colab notebooks. We will also use the AstroML package which can be installed easily during the workshop.
 
-##Useful links for this workshop:
+## Useful links for this workshop:
 
 Google colab: [https://colab.research.google.com/](https://colab.research.google.com/)
 
